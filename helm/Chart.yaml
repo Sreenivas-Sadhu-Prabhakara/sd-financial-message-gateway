@@ -1,0 +1,14 @@
+apiVersion: v2
+name: sd-financial-message-gateway
+description: "BIAN Service Domain: Financial Message Gateway (Operate pattern, Operations and Execution)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - bian
+  - operate
+annotations:
+  bian/business-area: "Operations and Execution"
+  bian/business-domain: "Operations"
+  bian/asset-type: "Financial Message"
+  bian/control-record: "Financial Message Operating Session"
